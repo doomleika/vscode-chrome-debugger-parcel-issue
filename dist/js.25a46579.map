@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/js/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAM,IAAI,IAAI,CAAd;AAEA,QAAQ,GAAR,CAAY,CAAZ","file":"js.25a46579.map","sourceRoot":"..","sourcesContent":["const k = 1 + 3\n\nconsole.log(k)\n\n"]}
